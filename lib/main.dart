@@ -1,3 +1,4 @@
+import 'package:chat_app/Pages/Cubits/chat_cubit/chat_cubit.dart';
 import 'package:chat_app/Pages/Cubits/login_cubit/login_cubit.dart';
 import 'package:chat_app/Pages/Cubits/regester_cubit/regester_cubit.dart';
 import 'package:chat_app/Pages/chat_page.dart';
@@ -29,6 +30,9 @@ class WeatherApp extends StatelessWidget {
         ),
         BlocProvider(
           create: (context) => RegesterCubit(),
+        ),
+        BlocProvider(
+          create: (context) => ChatCubit(),
         ),
       ],
       child: MaterialApp(

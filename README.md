@@ -27,8 +27,7 @@ To get started with this project, follow these steps.
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chat_app.git
-   cd chat_app
+   https://github.com/MohamedElnegouly/chat_app.git
 
    ## Usage
 

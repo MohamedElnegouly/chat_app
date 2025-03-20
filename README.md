@@ -29,7 +29,7 @@ To get started with this project, follow these steps.
    ```bash
    https://github.com/MohamedElnegouly/chat_app.git
 
-   ## Usage
+## Usage
 
 Once the application is running, follow these steps:
 
